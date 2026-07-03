@@ -1,6 +1,6 @@
 # 🚚 FedEx Logistics Optimization for Delivery Routes using SQL
 
-[}(https://logo.com/blog/fedex-logo)
+[](https://logo.com/blog/fedex-logo)
 
 ## 📌 Project Title
 
