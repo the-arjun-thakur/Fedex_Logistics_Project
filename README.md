@@ -1,6 +1,6 @@
 # 🚚 FedEx Logistics Optimization for Delivery Routes using SQL
 
-[](https://logo.com/blog/fedex-logo)
+[]([https://logo.com/blog/fedex-logo](https://github.com/the-arjun-thakur/Fedex_Logistics_Project/blob/main/images.png))
 
 ## 📌 Project Title
 
